@@ -53,7 +53,7 @@ Features include:
 ## ⚙️ Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/precision-farmers-ml-insights.git
+   git clone (https://github.com/Kennycrown007/Precision-Farmers-ML-Project.git)
 
 2. Install the required packages:
    pip install -r requirements.txt
